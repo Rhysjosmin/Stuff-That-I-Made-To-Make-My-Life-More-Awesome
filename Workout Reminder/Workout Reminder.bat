@@ -1,0 +1,1 @@
+.env\Scripts\pythonw.exe ./Workout Reminder.py
