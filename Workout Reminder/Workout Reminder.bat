@@ -1,1 +1,1 @@
-.env\Scripts\pythonw.exe ./Workout Reminder.py
+.env\Scripts\pythonw.exe ./app.py
